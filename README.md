@@ -8,9 +8,9 @@
  I'm Jean-Philippe, a senior mobile developer from France. <br />
  Thanks for visiting my profile and don't hesitate to contact me on my Linkedin page or by mail.
  
-Don't hesitate to send an email or a private message on Linkedin \
+Don't hesitate to send me a private message on Linkedin \
  \
-📫 How to reach me:<br />
+📫 How to reach me:<br /><br />
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mathildejanssenld/)](https://www.linkedin.com/in/jean-philippe-arnaudin-35110a92/)
  ##
  <div>
